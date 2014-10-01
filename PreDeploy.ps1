@@ -1,0 +1,1 @@
+﻿.\BottleServiceRunner.exe uninstall
