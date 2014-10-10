@@ -146,7 +146,7 @@ node.max_local_storage_nodes: 1
 
 # Path to directory where to store index data allocated for this node.
 #
-path.data: D:/Data/Test/@Elasticsearch/Data
+path.data: C:/@Elasticsearch/Data
 #
 # Can optionally include more than one location, causing data to be striped across
 # the locations (a la RAID 0) on a file level, favouring locations with most free
@@ -160,7 +160,7 @@ path.data: D:/Data/Test/@Elasticsearch/Data
 
 # Path to log files:
 #
-path.logs: D:/Data/Test/@Elasticsearch/Logs
+path.logs: C:/@Elasticsearch/Logs
 
 # Path to where plugins are installed:
 #
