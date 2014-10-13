@@ -231,6 +231,12 @@ http.port: 9210
 #
 # http.enabled: false
 
+http.basic.enabled: false
+
+http.basic.user: "mango"
+
+http.basic.password: "mango123"
+
 
 ################################### Gateway ###################################
 
