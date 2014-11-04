@@ -146,7 +146,7 @@
 
 # Path to directory where to store index data allocated for this node.
 #
-# path.data: c:/@Elasticsearch/Data
+path.data: e:/@Elasticsearch/Data
 #
 # Can optionally include more than one location, causing data to be striped across
 # the locations (a la RAID 0) on a file level, favouring locations with most free
@@ -160,7 +160,7 @@
 
 # Path to log files:
 #
-# path.logs: c:/@Elasticsearch/Logs
+path.logs: e:/@Elasticsearch/Logs
 
 # Path to where plugins are installed:
 #
@@ -221,7 +221,7 @@
 
 # Set a custom port to listen for HTTP traffic:
 #
-# http.port: 9210
+http.port: 9210
 
 # Set a custom allowed content length:
 #
