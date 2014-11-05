@@ -1,2 +1,2 @@
 ﻿.\BottleServiceRunner.exe install
-Start-Service ElasticsearchService
+#Start-Service ElasticsearchService
